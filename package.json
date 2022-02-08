@@ -1,0 +1,30 @@
+{
+  "name": "ex_graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "binance-api-node": "^0.11.31",
+    "dateformat": "^5.0.2",
+    "ethereumjs-wallet": "^1.0.2",
+    "express": "^4.17.2",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.2.1",
+    "req-flash": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajkumarquestglt/ex_graph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajkumarquestglt/ex_graph/issues"
+  },
+  "homepage": "https://github.com/Rajkumarquestglt/ex_graph#readme"
+}
